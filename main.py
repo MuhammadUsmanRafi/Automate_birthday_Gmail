@@ -1,7 +1,6 @@
 import datetime as dt
 import random
 import smtplib
-
 import pandas
 
 NAME = "[NAME]"
