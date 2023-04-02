@@ -6,8 +6,8 @@ import pandas
 NAME = "[NAME]"
 REGARDS = "Usman"
 message = ""
-MY_EMAIL = "testtheemail1122@gmail.com"
-MY_PASSWORD = "iarsvhnedmhkzrbj"
+MY_EMAIL = "your-email@example.com"
+MY_PASSWORD = "your-password"
 
 today = dt.datetime.now()
 today_tuple = (today.month, today.day)
